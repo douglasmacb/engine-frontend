@@ -1,13 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Reactjs + Redux + Formik - Wordpress converter frontend application
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and packages is being managed by Yarn.
 
 ## Available Scripts
-
-Yarn is being used as node package manager in this project.
 
 In the project directory, you can run:
 
 ### `yarn install`
 
-### `npm start`
+### `yarn start`
 
 
